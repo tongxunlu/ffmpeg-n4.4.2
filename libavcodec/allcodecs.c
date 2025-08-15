@@ -98,6 +98,8 @@ extern AVCodec ff_dvvideo_encoder;
 extern AVCodec ff_dvvideo_decoder;
 extern AVCodec ff_dxa_decoder;
 extern AVCodec ff_dxtory_decoder;
+extern AVCodec ff_av3a_encoder;
+extern AVCodec ff_av3a_decoder;
 extern AVCodec ff_dxv_decoder;
 extern AVCodec ff_eacmv_decoder;
 extern AVCodec ff_eamad_decoder;
