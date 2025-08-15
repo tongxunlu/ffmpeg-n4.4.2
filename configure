@@ -98,7 +98,7 @@ Licensing options:
   --enable-gpl             allow use of GPL code, the resulting libs
                            and binaries will be under GPL [no]
   --enable-version3        upgrade (L)GPL to version 3 [no]
-  --enable-av3a            enable AV3A audio format support [no]
+  --enable-av3a            enable AV3A audio format support [yes]
   --enable-nonfree         allow use of nonfree code, the resulting libs
                            and binaries will be unredistributable [no]
 
